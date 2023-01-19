@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA and Object Oriented Programing**
 
-- 📫 How to reach me **rahul23131420@gmail.com**
+- 📫 contact me **rahul23131420@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

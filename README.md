@@ -8,7 +8,7 @@
 [![](https://visitcount.itsvg.in/api?id=RahulPatel2727&icon=0&color=0)](https://visitcount.itsvg.in) <br><br>
 🌱 I’m currently learning MERN<br><br>💬 Ask me about MERN or any tech related stuff.<br><br>📫 How to reach me rahul23131420@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/rahul-patel-a02132204/<br><br>⚡ Fun fact I love One Piece
 
-
+![Rahul](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-patel-a02132204/) 
 

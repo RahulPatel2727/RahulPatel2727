@@ -2,7 +2,7 @@
 )
 
 <h1 align="center">Hi there ‼︎<br> I'm Rahul Patel</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<h3 align="center">A passionate Java Programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 [![](https://visitcount.itsvg.in/api?id=RahulPatel2727&icon=0&color=0)](https://visitcount.itsvg.in) <br><br>
